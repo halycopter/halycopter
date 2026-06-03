@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 - 🎓 **Current Status:** University Student.
-- 💻 **Focus:** Learning Java and Backend development.
+- 💻 **Focus:** Learning Python and Backend development.
 - 📚 **Interests:** Object-Oriented Programming (OOP), Advanced Mathematics, and Computer Science fundamentals.
 
 ## 🛠️ Tech & Tools I'm Learning
