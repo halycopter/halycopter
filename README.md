@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there, I'm halycopter 👋
 
-<!--
-**halycopter/halycopter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 🎓 **Current Status:** University Student.
+- 💻 **Focus:** Learning Java and Backend development.
+- 📚 **Interests:** Object-Oriented Programming (OOP), Advanced Mathematics, and Computer Science fundamentals.
 
-Here are some ideas to get you started:
+## 🛠️ Tech & Tools I'm Learning
+- **Languages:** Java
+- **Core Concepts:** OOP, Algorithms, Data Structures
+- **Version Control:** Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+*“The only way to learn a new programming language is by writing programs in it.”*
